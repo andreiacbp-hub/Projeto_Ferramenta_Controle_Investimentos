@@ -9,7 +9,7 @@ Esta planilha foi desenvolvida para o curso Bootcamp Santander Excel da DIO e te
 
 ## 🛠️ Tecnologias Utilizadas
 * Microsoft Excel 
-* Google Gemini 
+* Google Gemini para criação da logo 
 
 ## 📸 Capturas de Tela
 Abaixo estão exemplos do funcionamento da planilha:
