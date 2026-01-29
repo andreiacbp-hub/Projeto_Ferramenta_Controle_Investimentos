@@ -14,8 +14,8 @@
 ## 📸 Capturas de Tela
 Abaixo estão exemplos do funcionamento da planilha:
 
-![Capa do simulador](images/capa_simulador.png)
-![Dashboard e Perfil de Investidor](images/perfil_investidor.png)
+![Capa do simulador](images/capa_simulador.jpg)
+![Dashboard e Perfil de Investidor](images/perfil_investidor.jpg)
 
 ## autor
 [Andreia Pontes]
